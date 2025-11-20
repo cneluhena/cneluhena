@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamod</h1>
-- 🌱 I’m currently learning **Software Engineering and Data Science**
+- 🌱 I’m currently learning Software Engineering and Data Science
 
-- 📫 How to reach me **cneluhena@gmail.com**
+- 📫Reach me **cneluhena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
